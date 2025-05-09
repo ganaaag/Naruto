@@ -2,16 +2,16 @@ import os
 
 class Config(object):
     
-    BOT_TOKEN = "8012231272:AAFITViiSvq-2hXqbCaS4VBwHahNsim-woE"
+    BOT_TOKEN = "7790108236:AAFXbsk8DaoXmaYU4w1y9PGd8UIEzkXIqVI"
     
-    API_ID = 12475131
+    API_ID = 25403301
     
-    API_HASH = "719171e38be5a1f500613837b79c536f"
-    ADMIN_ID = [12475131]
+    API_HASH = "d700b4abe3d023165894291b6fcbd3a0"
+    ADMIN_ID = [1081310808]
     
-    DB_URL = "mongodb+srv://tmglcd:kI1UijMr2jJXyOXY@cluster0.unjzi.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+    DB_URL = "mongodb+srv://mytry:<vgCPiofFVZEuNFue>@cluster0.te7hehd.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
     
-    DB_NAME = "MY_BOT_DB"
+    DB_NAME = "Cluster0"
     
     TXT_LOG = -1002542634912
     
